@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "986999447759",
+    "project_id": "growigh-6d558",
+    "storage_bucket": "growigh-6d558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986999447759:android:2c15a2b09c33808bf897ba",
+        "android_client_info": {
+          "package_name": "com.example.growigh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986999447759-jb0rg90mk0kn7kqm6prqei8bimmi2bqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.growigh",
+            "certificate_hash": "dd51525dec3f5a9c3950d65d62de68211ad34f79"
+          }
+        },
+        {
+          "client_id": "986999447759-efgn44gm7pnuljsc9ng2fl8qi8fnv3vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVRhrCN08_Si2QwmADqoF7k1_fhvX9fn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986999447759-efgn44gm7pnuljsc9ng2fl8qi8fnv3vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

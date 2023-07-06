@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Growigh</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+    <string name="api_key">6032c94f4db245f28037e4f698ecf944</string>
+</resources>
